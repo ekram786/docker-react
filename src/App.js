@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
        <p>
-         This is my page4!
+         This is my elastic bean !
        </p>
       </header>
     </div>
